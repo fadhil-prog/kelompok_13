@@ -26,6 +26,7 @@ ERD(Entity Relantionship Diagram):
 <img width="524" height="335" alt="image" src="https://github.com/user-attachments/assets/5b24645a-54fb-4cdd-b84c-6b43918e28b1" />
 
 
+
 Halaman utama:
 
 <img width="525" height="253" alt="image" src="https://github.com/user-attachments/assets/9ca44670-275c-4e16-92af-1afdef311935" />
@@ -33,9 +34,11 @@ Halaman utama:
 <img width="519" height="248" alt="image" src="https://github.com/user-attachments/assets/737856dd-830b-4ff8-a7a3-c03616cba3fe" />
 
 
+
 Halaman Login:
 
 <img width="518" height="269" alt="image" src="https://github.com/user-attachments/assets/2de9f5cf-4e3c-441e-9f23-bed11242f4dd" />
+
 
 
 Halaman User Setelah Voting:
@@ -43,9 +46,11 @@ Halaman User Setelah Voting:
 <img width="516" height="245" alt="image" src="https://github.com/user-attachments/assets/141af205-a9e1-42f0-895c-6d06ed7711af" />
 
 
+
 Halaman Register:
 
 <img width="524" height="249" alt="image" src="https://github.com/user-attachments/assets/06035443-41f9-436d-a27b-38c23ea8a977" />
+
 
 
 Halaman User Sebelum Voting:
@@ -53,9 +58,11 @@ Halaman User Sebelum Voting:
 <img width="519" height="252" alt="image" src="https://github.com/user-attachments/assets/15bc8269-d9bb-44fc-96c4-2fb8de1cc7a2" />
 
 
+
 Halaman Admin (Mengelola Opsi untuk Dipilih):
 
 <img width="522" height="250" alt="image" src="https://github.com/user-attachments/assets/3b8a7a9d-e943-456e-ab6d-13f3e3137c98" />
+
 
 
 Halaman Admin (Melihat data pemilih):
@@ -63,7 +70,10 @@ Halaman Admin (Melihat data pemilih):
 <img width="527" height="255" alt="image" src="https://github.com/user-attachments/assets/5395a227-247f-42aa-b390-0ddc96e67993" />
 
 
+
 Halaman Admin (Grafik Dari Hasil pemilih):
 <img width="521" height="244" alt="image" src="https://github.com/user-attachments/assets/04374224-56ae-43c3-bf48-4986c13f3759" />
+
 <img width="523" height="262" alt="image" src="https://github.com/user-attachments/assets/c97e2984-1b26-4429-8f5a-a195dc460440" />
+
 
