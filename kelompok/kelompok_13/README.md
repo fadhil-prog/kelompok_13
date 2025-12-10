@@ -1,13 +1,13 @@
-#Sistem Evoting
+# Sistem Evoting
 
-##Daftar Anggota Kelompok:
+## Daftar Anggota Kelompok:
 1. Fadhil Akbar (2315061037)
 2. Michael Deffrans (2315061087)
 3. DESTA RAHMA IRAYANI (2315061006)
 4. NAOMI THERESIA BR SARAGIH (2315061091)
 
 Judul Sistem: Sistem E-Voting Berbasis Web untuk Pemilihan Pimpinan Pengurus Himpunan Mahasiswa
-#Sumarry Project:
+# Sumarry Project:
 Sistem E-Voting adalah sistem yang dibuat untuk membuat voting dalam memilih seseorang yang biasanya dilakukan pada kotak suara. Kami membuat sistem ini untuk mempermudah user yang bisa dilakukan secara fleksibel bisa memilih di manapun dan kapan pun. Sistem ini juga bisa dikelola oleh admin dalam menentukan siapa aja yang perlu dipilih dan bisa melihat hasil dari pemilihan yang telah dilakukan oleh user. User hanya dapat memilih saja, tidak bisa melihat hasil dari opsi yang telah disediakan admin.
 Sistem kami menggunakan PHP+CSS+JS yang dimana:
 1. PHP digunakan untuk kerangka yang diisi HTML didalamnya, dan beberapa backend yang terhubung ke database agar web bisa secara dinamis dalam mengelola web nya.
@@ -78,6 +78,7 @@ Halaman Admin (Grafik Dari Hasil pemilih):
 <img width="521" height="244" alt="image" src="https://github.com/user-attachments/assets/04374224-56ae-43c3-bf48-4986c13f3759" />
 
 <img width="523" height="262" alt="image" src="https://github.com/user-attachments/assets/c97e2984-1b26-4429-8f5a-a195dc460440" />
+
 
 
 
