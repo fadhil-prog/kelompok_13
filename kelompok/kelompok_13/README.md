@@ -20,6 +20,8 @@ Cara menjalankan sistem kami adalah sebagai berikut:
 3. Setelah di tempatkan di tempat yang benar, aktifkan Laragon/Xampp nya dan kemudian import databasenya yang terdapat pada github ini (evoting.sql).
 4. Setelah diimport, Kemudian buka browser dan ketik localhost/kelompok/kelompok_13/index.php (itu adalah halaman utamanya).
 5. Perhatikan selalu laragon/xampp karena untuk menjalankannya harus selalu diaktifkan.
+6. untuk masuk ke dalam akun nya, admin menggunakan username: admin@himatro.ac.id, Password: admin123.
+7. untuk masuk ke user, silahkan anda register terlebih dahulu dengan halaman register yang telah kami sediakan (harus menggunakan "xxxxxx@himatro.ac.id" untuk usernamenya).
 
 Berikut beberapa Dokumentasi dari Sistem ini:
 
